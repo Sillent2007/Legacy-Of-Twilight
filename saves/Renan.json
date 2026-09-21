@@ -1,0 +1,22 @@
+[
+    {
+        "nickname": "Sillent",
+        "classe": "Berserker",
+        "life": 100,
+        "attack": 20,
+        "defense": 6,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    },
+    {
+        "nickname": "Chocoever",
+        "classe": "Guardião",
+        "life": 140,
+        "attack": 8,
+        "defense": 18,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    }
+]
